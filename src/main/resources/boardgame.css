@@ -1,0 +1,20 @@
+.square {
+    -fx-border-style: solid;
+}
+
+.selected {
+    -fx-background-color: #FFEECF;
+}
+
+.taken-piece {
+    -fx-fill: white;
+    -fx-background-color: silver
+}
+
+.selectable {
+    -fx-border-width: 5;
+}
+
+.square:hover {
+    -fx-background-color: ghostwhite;
+}
